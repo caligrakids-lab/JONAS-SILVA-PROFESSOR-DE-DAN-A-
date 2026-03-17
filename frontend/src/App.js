@@ -14,7 +14,7 @@ function App() {
         
         <div className="profile-photo-container">
           <img 
-            src="https://customer-assets.emergentagent.com/job_danca-movimento/artifacts/41gf7gng_Create_a_highend_photography_studio_environment_wi_delpmaspu.png" 
+            src="https://customer-assets.emergentagent.com/job_danca-movimento/artifacts/ban4vx6g_Efeito%20degrad%C3%AA%20fuma%C3%A7a%20preta.png" 
             alt="Jonas Silva" 
             className="profile-photo"
             data-testid="profile-photo"
@@ -23,8 +23,7 @@ function App() {
         </div>
 
         <div className="title-section">
-          <h1 className="main-title" data-testid="main-title">JONAS</h1>
-          <h1 className="main-title" data-testid="main-title-2">SILVA</h1>
+          <h1 className="main-title single-line" data-testid="main-title">JONAS SILVA</h1>
           <p className="subtitle" data-testid="subtitle">Professor de aulas fitness e Zumba.</p>
           <div className="golden-line"></div>
         </div>
