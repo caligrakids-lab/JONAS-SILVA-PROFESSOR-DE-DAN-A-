@@ -14,7 +14,7 @@ function App() {
         
         <div className="profile-photo-container">
           <img 
-            src="https://customer-assets.emergentagent.com/job_bc47142a-f5f3-4b29-97f2-da3560ff012a/artifacts/ghbgqrv6_WhatsApp%20Image%202026-03-16%20at%2015.28.56%20%281%29.jpeg" 
+            src="https://customer-assets.emergentagent.com/job_danca-movimento/artifacts/41gf7gng_Create_a_highend_photography_studio_environment_wi_delpmaspu.png" 
             alt="Jonas Silva" 
             className="profile-photo"
             data-testid="profile-photo"
